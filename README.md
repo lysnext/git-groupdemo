@@ -1,6 +1,9 @@
 # git-demo
 
-测试远程的 sdfsdfsfafadf
+
+测试远程的 lyszxm 修改的
+
+测试远程的 sdfsdfsfafadf合并
 
 ## 1. Git 基础
 
@@ -225,3 +228,4 @@ git 忽略清单文件名称：**.gitignore**
 将工作目录中的文件全部添加到暂存区：`git add .`
 
 [https://juejin.cn/post/6844904143870509063 一杯茶的时间，上手 Git 团队协作开发](https://juejin.cn/post/6844904143870509063)
+
