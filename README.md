@@ -1,6 +1,6 @@
 # git-demo
 
-测试远程的 1sdfsdfsfafadf a b c
+测试远程的 1sdfsdfsfafadf a b c d 自己
 
 ## 1. Git 基础
 
